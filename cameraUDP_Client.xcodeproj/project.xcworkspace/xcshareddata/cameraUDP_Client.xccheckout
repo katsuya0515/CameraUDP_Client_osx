@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>10F28661-101E-4FA6-8A45-3B943102BBFF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cameraUDP_Client</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B49FD7EB-3164-47EB-94E6-D7BF4402534A</key>
+		<string>https://github.com/katsuya0515/CameraUDP_Client_osx.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cameraUDP_Client.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B49FD7EB-3164-47EB-94E6-D7BF4402534A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/katsuya0515/CameraUDP_Client_osx.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B49FD7EB-3164-47EB-94E6-D7BF4402534A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B49FD7EB-3164-47EB-94E6-D7BF4402534A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cameraUDP_Client</string>
+		</dict>
+	</array>
+</dict>
+</plist>
